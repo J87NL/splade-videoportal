@@ -1,0 +1,16 @@
+.mt-55px {
+    margin-top: 55px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #a21547;
+    border-color: #a21547;
+}
+
+.max-w-7xl {
+    max-width: 84rem;
+}
